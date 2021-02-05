@@ -1,3 +1,6 @@
+## NOTE
+Per course project instructions (see below) the repository is forked and cloned. This README file was written by Roger D. Peng, PhD and so credit for the README goes to him. 
+
 ## Introduction
 
 This assignment uses data from
