@@ -25,7 +25,7 @@ lines(data$Date_Time,data$Sub_metering_3,col="blue")
 legend("topright",legend=c("Sub_metering_1","Sub_metering_2","Sub_metering_3"),col=c("black","red","blue"),lty=1,bty="n",cex=0.5)
 
 ##Bottom Right Plot
-plot(data$Date_Time,data$Global_active_power,type="l",ylab="Global Reacctive Power",xlab="datetime")
+plot(data$Date_Time,data$Global_reactive_power,type="l",ylab="Global Reacctive Power",xlab="datetime")
 
 
 # Verified plot looks correct in viewer and copy to png file
