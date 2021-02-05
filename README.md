@@ -1,6 +1,8 @@
 ## NOTE
 Per course project instructions (see below) the repository is forked and cloned. This README file was written by Roger D. Peng, PhD and so credit for the README goes to him. 
 
+The Data File is too large to upload to github. In order to use the code, the data file (pulled form link below) needs to be in the directory you are using.
+
 ## Introduction
 
 This assignment uses data from
